@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michel Nsimba Matondo.</h1>
-<h3 align="center">A passionate Full Stack developer from Belgium. I have learned Computer science from the University of Namur and take C# and .NET trainings at TechnoFutur TIC.</h3>
+<h3 align="center">A passionate Full Stack developer from Belgium. I have learned Computer science from the University of Namur and took C# and .NET trainings at TechnoFutur TIC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsimat&label=Profile%20views&color=0e75b6&style=flat" alt="nsimat" /> </p>
 
