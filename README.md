@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsimat" alt="nsimat" /></a> </p>
 
-- 🌱 During my Master 60 Study at the University of Namur, I’ve learned **Software Architecture.** I'm currently updating my .NET skills with **.NET Developer - Cloud Computing** at TechnoFutur TIC.**
+- 🌱 During my Master 60 Study at the University of Namur, I’ve learned **Software Architecture.** I'm currently updating my .NET skills during a summer straining named **.NET Developer - Cloud Computing** at TechnoFutur TIC.**
 
 - 📫 How to reach me **nsimba_matondo@yahoo.fr**
 
